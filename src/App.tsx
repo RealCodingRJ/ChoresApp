@@ -28,13 +28,6 @@ export default function App() {
         <input type="checkbox" id="typed" />
       </div>
       <hr />
-
-      <div className="container">
-        <h2>Step 4: </h2>
-        <h2 id="completed">Did You Do Laundry?</h2>
-        <input type="checkbox" id="typed" />
-      </div>
-      <hr />
     </Fragment>
   );
 }
